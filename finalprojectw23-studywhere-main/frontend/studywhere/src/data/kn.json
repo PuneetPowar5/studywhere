@@ -1,0 +1,54 @@
+[
+    {
+      "type": "Feature",
+      "key": "1",
+      "properties": {
+          "ROOM": "137",
+          "Occupancy": "59",
+          "Type": "group",
+          "Image": "No Image Available",
+          "Availability": "Not Available",
+          "Event": "",
+          "Sitting": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "2",
+      "properties": {
+          "ROOM": "130",
+          "Occupancy": "11",
+          "Type": "Single",
+          "Image": "No Image Available",
+          "Availability": "Not Available",
+          "Event": "",
+          "Sitting": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "3",
+      "properties": {
+          "ROOM": "132",
+          "Occupancy": "11",
+          "Type": "single",
+          "Image": "No Image Available",
+          "Availability": "Not Available",
+          "Event": "",
+          "Sitting": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "4",
+      "properties": {
+          "ROOM": "L1245",
+          "Occupancy": "11",
+          "Type": "single",
+          "Image": "No Image Available",
+          "Availability": "Not Available",
+          "Event": "",
+          "Sitting": "3"
+      }
+    }
+]

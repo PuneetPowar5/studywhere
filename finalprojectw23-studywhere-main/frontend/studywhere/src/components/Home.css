@@ -1,0 +1,11 @@
+.marker{
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .marker img{
+    display: block;
+    width: 20px;
+    height: 20px;
+  }

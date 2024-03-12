@@ -1,0 +1,9 @@
+.like {
+    display: block;
+    max-width: 5%;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10vh;
+    padding-top: 5vh;
+  }

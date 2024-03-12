@@ -1,0 +1,38 @@
+[
+    {
+      "type": "Feature",
+      "key": "1",
+      "properties": {
+          "Event": "Elections",
+          "Location": "All Over Campus",
+          "Date": "March 14th to 16th"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "2",
+      "properties": {
+        "Event": "Elections",
+        "Location": "All Over Campus",
+        "Date": "March 14th to 16th"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "3",
+      "properties": {
+        "Event": "Elections",
+        "Location": "All Over Campus",
+        "Date": "March 14th to 16th"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "4",
+      "properties": {
+        "Event": "Elections",
+        "Location": "All Over Campus",
+        "Date": "March 14th to 16th"
+      }
+    }
+]

@@ -1,0 +1,21 @@
+The back-end is built used flask, python, and SQLAlchemy, with a database hosted remotely on Azure SQL. 
+
+The current backend consists of two files, "app.py" and "models.py". 
+
+
+Models.py:
+This file stores the ORM models that we use for creating objects from the database.  
+
+
+App.py:
+This file creates the flask application, and the SQLalchemy database object. It also is where API call functions are located. Currently we have API calls that can do the following:
+
+/api/getUsers - this is a get request that returns users with the given parameters:
+
+phonenumber
+username
+password
+year of study
+
+
+/api/addUsers

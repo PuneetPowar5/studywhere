@@ -1,0 +1,82 @@
+{
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "PARK_ID": 1,
+            "NAME": "DH",
+            "ROOMS": "Total Rooms: 11",
+            "EVENTS": "Group Study Events: 4"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.55052379426755, -79.66644511371034]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "PARK_ID": 2,
+            "NAME": "MN",
+            "ROOMS": "Total Rooms: 31",
+            "EVENTS": "Group Study Events: 0"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.551221748080025, -79.66572596916959]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "PARK_ID": 3,
+            "NAME": "CCT",
+            "ROOMS": "Total Rooms: 12",
+            "EVENTS": "Group Study Events: 2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.54997729394638, -79.66308775321143]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "PARK_ID": 4,
+            "NAME": "IB",
+            "ROOMS": "Total Rooms: 27",
+            "EVENTS": "Group Study Events: 0"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.551696267444676, -79.66377716357154]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "PARK_ID": 5,
+            "NAME": "DV",
+            "ROOMS": "Total Rooms: 25",
+            "EVENTS": "Group Study Events: 0"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.54822409598735, -79.66197087655125]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "PARK_ID": 6,
+            "NAME": "KN",
+            "ROOMS": "Total Rooms: 4",
+            "EVENTS": "Group Study Events: 0"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [43.54818327090915, -79.66322615037498]
+        }
+      }
+    ]
+  }

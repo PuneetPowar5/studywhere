@@ -1,0 +1,26 @@
+[
+    {
+      "type": "Feature",
+      "key": "1",
+      "properties": {
+          "Reservation": "DH 2010",
+          "Date": "March 14th to 16th"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "2",
+      "properties": {
+        "Reservation": "MN 1210",
+        "Date": "March 14th to 16th"
+      }
+    },
+    {
+      "type": "Feature",
+      "key": "3",
+      "properties": {
+        "Reservation": "KN 137",
+        "Date": "March 14th to 16th"
+      }
+    }
+]
